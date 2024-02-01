@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 <h1>Bonjour à tous, </h1> <br> 
- <h3> Je m'apelle Alexis Cuvillier,</h3>
+
   <h3>Actuellement à la recherche d'une alternance en tant qu'Expert en Systèmes d’Informations. </h3>
   
   

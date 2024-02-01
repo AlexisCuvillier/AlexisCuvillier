@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 -->
 
 
-<h1>Bonjour à tous, </h1> <br> 
-
-  <h3>Actuellement à la recherche d'une alternance en tant qu'Expert en Systèmes d’Informations. </h3>
   
   
  <span style="margin:15px" />

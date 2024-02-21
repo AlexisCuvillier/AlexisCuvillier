@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ## 🏆 GitHub Stats/Trophies
   
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisCuvillier)](https://github.com/AlexisCuvillier/github-readme-stats)
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexisCuvillier&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" />
   

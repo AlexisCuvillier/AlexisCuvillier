@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,github,html,css,js,ts,react,nodejs,express,docker" /> (https://skillicons.dev)
+    <img src="https://skillicons.dev/icons?i=vscode,github,html,css,js,ts,react,nodejs,express,docker" />
   </a>
 </p>
 

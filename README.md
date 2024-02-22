@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 </a>
   
  <br /> <span />
+ <br />
+ 
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=AlexisCuvillier&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
   

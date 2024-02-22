@@ -20,7 +20,7 @@ Here are some ideas to get you started:
  
  ***
  
-### - Langages et outils...
+### - Langages frameworks et outils...
 
 
 <p align="center">

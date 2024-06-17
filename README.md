@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>Bonjour à tous ! </h2>
-  <p>Après avoir validé mon titre de Développeur web et web mobile ainsi que celui de Concepteur Développeur d'Application, j'ai décidé de me tourner vers une alternance en tant qu'Expert en Système d'Informations,<br />je suis donc actuellement à la recherche d'une entreprise afin de continuer à monter en compétence et de valider mon titre. </p>
-  
  <span style="margin:15px" />
  
  ***
